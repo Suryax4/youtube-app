@@ -11,7 +11,6 @@ const VideoPlayer = ({ videoId }) => {
   };
 
   const onReady = (event) => {
-    // Access to player in all event handlers via event.target
     event.target.playVideo();
   };
 

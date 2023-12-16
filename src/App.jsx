@@ -2,7 +2,7 @@ import React from "react";
 import VideoPlayer from "./components/VideoPlayer";
 
 function App() {
-  // Replace 'YOUR_VIDEO_ID' with the actual unlisted video ID
+  // Replace Video Id corresponding to required youtube video
   const videoId = "NOYRl12zNJw";
 
   return (
