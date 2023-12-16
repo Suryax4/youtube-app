@@ -3,7 +3,7 @@ import VideoPlayer from "./components/VideoPlayer";
 
 function App() {
   // Replace 'YOUR_VIDEO_ID' with the actual unlisted video ID
-  const videoId = "YOUR_VIDEO_ID";
+  const videoId = "NOYRl12zNJw";
 
   return (
     <div className="App">
